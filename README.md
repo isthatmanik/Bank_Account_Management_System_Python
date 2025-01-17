@@ -68,17 +68,6 @@ The objective of this project is to develop a Bank Account Management System in 
   - NumPy  
   - Pickle (built-in module)  
 
-### Steps  
-1. Clone the repository:  
-   ```bash  
-   git clone https://github.com/AnchalDayal/Bank-Account-Management-System---Python.git  
-   ```  
-
-2. Install NumPy:  
-   ```bash  
-   pip install numpy  
-   ```   
-
 ## Usage  
 
 The program provides an interactive menu to perform the following operations:  
